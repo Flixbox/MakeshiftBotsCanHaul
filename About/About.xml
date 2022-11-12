@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Makeshift Combat Robots can haul!</name>
+	<author>Flixbox</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>Flixbox.Robots.Haul</packageId>
+	<loadAfter>
+		<li>bonible.vfemmakeshiftcombatrobots</li>
+	</loadAfter>
+	<modDependencies>
+		<li>
+			<packageId>bonible.vfemmakeshiftcombatrobots</packageId>
+			<displayName>VFE Mechanoids - Makeshift Combat Robots</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2860233014</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>Makeshift Combat Droids can haul. The knife robot is not affected.</description>
+</ModMetaData>
